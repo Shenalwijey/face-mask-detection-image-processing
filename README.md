@@ -16,6 +16,23 @@ Instead of deep learning, this project uses a combination of **HOG Features**, *
 
 ---
 
+## 📂 Dataset
+
+The dataset used in this project was obtained from Kaggle.
+
+🔗 Source:
+https://www.kaggle.com/datasets/omkargurav/face-mask-dataset
+
+Dataset Statistics:
+
+- 😷 With Mask: 3,725 images
+- 😀 Without Mask: 3,828 images
+- 📊 Total Images: 7,553
+
+The dataset contains face images of individuals wearing and not wearing face masks under different lighting conditions, facial poses, and backgrounds.
+
+---
+
 ## 🎯 Features
 
 - 😷 Detects whether a person is wearing a face mask
